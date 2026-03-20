@@ -17,7 +17,7 @@
 
 ### 📫 Kontakt
 - 📧 jinjonas.quade@lernio.site  
-- 🌐 www.lernio.site 
+- 🌐 https://jinsdev.de 
 
 ---
 
